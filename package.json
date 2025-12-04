@@ -2,7 +2,7 @@
   "name": "sail-and-saga-final",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://sailandsaga29.github.io/sail-and-saga-final",
+  "homepage": "https://sailandsaga29.github.io/sail_and_saga",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
