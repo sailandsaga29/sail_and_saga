@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sail_and_saga/static/css/main.c79a1ce9.css",
-    "main.js": "/sail_and_saga/static/js/main.abf5d181.js",
-    "index.html": "/sail_and_saga/index.html",
-    "main.c79a1ce9.css.map": "/sail_and_saga/static/css/main.c79a1ce9.css.map",
-    "main.abf5d181.js.map": "/sail_and_saga/static/js/main.abf5d181.js.map"
+    "main.css": "/static/css/main.3217ad8f.css",
+    "main.js": "/static/js/main.6c3d9040.js",
+    "index.html": "/index.html",
+    "main.3217ad8f.css.map": "/static/css/main.3217ad8f.css.map",
+    "main.6c3d9040.js.map": "/static/js/main.6c3d9040.js.map"
   },
   "entrypoints": [
-    "static/css/main.c79a1ce9.css",
-    "static/js/main.abf5d181.js"
+    "static/css/main.3217ad8f.css",
+    "static/js/main.6c3d9040.js"
   ]
 }
