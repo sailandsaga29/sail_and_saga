@@ -31,7 +31,7 @@ export default function App() {
 
       <div className="content fade-in">
         <h1 className="logo slide-down">SAIL & SAGA</h1>
-        <p className="tagline fade-in-delay">Adventure in Every Thread</p>
+        <p className="tagline fade-in-delay">Adventure in every design</p>
 
         <h3 className="coming pop-in">
           LAUNCHING SOON</h3>
@@ -64,7 +64,6 @@ export default function App() {
         <div className="social fade-in-delay">
           <a><i className="fab fa-instagram"></i></a>
           <a><i className="fab fa-facebook"></i></a>
-          <a><i className="fab fa-tiktok"></i></a>
         </div>
       </div>
     </div>
